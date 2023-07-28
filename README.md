@@ -16,7 +16,7 @@ Django Rest endpoint boiler plate project with user application wrapped with JWT
 ##### Cloning the repository:
 
 ```bash
-https://github.com/OwinoLucas/I-Reporter.git
+https://github.com/OwinoLucas/djangoAPIS.git                                       
 ```
 
 ##### Navigate into the folder and install requirements
