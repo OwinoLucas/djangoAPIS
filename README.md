@@ -6,11 +6,10 @@ Django Rest endpoint boiler plate project with user application wrapped with JWT
 ### registration endpoint
 ![Screenshot from 2023-07-28 13-31-52](https://github.com/OwinoLucas/djangoAPIS/assets/60548928/ec8031c1-5971-4d0b-9c63-0623e3810591)
 ### Login endpoint
-![image](https://{file:///home/looading/Pictures/Screenshots/Screenshot%20from%202023-07-28%2013-32-02.png
-})
+![Screenshot from 2023-07-28 13-32-02](https://github.com/OwinoLucas/djangoAPIS/assets/60548928/7ac9fd69-d8da-4c42-bf11-b775de7fc931)
 ### Post blog endpoint
-![image](https://{file:///home/looading/Pictures/Screenshots/Screenshot%20from%202023-07-28%2013-32-16.png
-})
+![Screenshot from 2023-07-28 13-32-16](https://github.com/OwinoLucas/djangoAPIS/assets/60548928/1e198846-d77e-44b2-826d-29adfe9ca83c)
+
 
 ##### Cloning the repository:
 
